@@ -1,2 +1,2 @@
 # Mini-project-24
-All  coding part will be uploaded  in this repo
+Codes and IR images uploaded in this repo
